@@ -4,3 +4,4 @@ change the name
 change cell number
 change files construction
 change chapter name
+citizen and status change
